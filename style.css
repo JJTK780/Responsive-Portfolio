@@ -1,0 +1,27 @@
+/* This file contains custom CSS rules.
+Most of the styling is handled by Tailwind CSS classes directly in the HTML.
+This file is for styles that are either difficult to achieve with Tailwind utility classes
+or for defining base styles.
+*/
+
+/* Use the Inter font family for the entire page */
+body {
+  font-family: "Inter", sans-serif;
+}
+
+/* This rule ensures that the section titles are not obscured by the sticky navbar.
+This prevents the sticky navigation bar from covering the section title
+when you click on a navigation link to scroll to it.
+The value should match the height of your fixed header.
+*/
+.section {
+  scroll-margin-top: 64px; /* Height of the sticky navbar */
+}
+/* Custom styles for the logo */
+.logo {
+  font-family: "Doto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700; /* Using 700 for bold text */
+  font-style: normal;
+  font-variation-settings: "ROND" 0;
+}
