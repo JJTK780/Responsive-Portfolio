@@ -1,6 +1,6 @@
 # Responsive-Portfolio
 
-A modern, minimal, and responsive personal portfolio website inspired by **Nothing UI design** aesthetics. This portfolio showcases my skills, projects, and contact information, and is built using **HTML**, **Tailwind CSS**, and **JavaScript**.
+A modern, minimal, and responsive personal portfolio website inspired by **Nothing UI design** aesthetics. This portfolio showcases skills, projects, and contact information, and is built using **HTML**, **Tailwind CSS**, and **JavaScript**.
 
 ## ✨ Inspiration
 
