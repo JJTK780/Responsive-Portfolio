@@ -6,6 +6,8 @@ A modern, minimal, and responsive personal portfolio website inspired by **Nothi
 
 This design draws inspiration from the sleek and minimal approach of **Nothing UI**, emphasizing clean lines, subtle animations, and focus on content.
 
+![image alt](https://github.com/JJTK780/Responsive-Portfolio/blob/876e3520af2ca358233221724764edb559f98a3e/images/Responsive%20Portfolio%20gradient.png)
+
 ## 🚀 Features
 
 - Responsive design (mobile-first)
